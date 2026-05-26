@@ -69,3 +69,7 @@ Anything that's used to edit an existing PDF file:
 * [pdfcpu](https://github.com/pdfcpu/pdfcpu) ![](https://shields.io/badge/-extract-inactive)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): batch processing and scripting via a rich command line
 * [pdf-lib](https://github.com/Hopding/pdf-lib)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): Create and modify PDF documents in any JavaScript environment
 * [HexaPDF](https://hexapdf.gettalong.org): ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): A pure Ruby PDF creation and manipulation library
+
+## Online Tools
+
+* [PDF Toolbox](https://pdftoolbox-three.vercel.app): Free browser-based PDF tools — compress, merge, split, JPG to PDF, PDF to JPG, and unlock PDFs. All processing happens locally in the browser, no file upload required.
